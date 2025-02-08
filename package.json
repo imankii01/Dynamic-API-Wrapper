@@ -1,0 +1,18 @@
+{
+    "name": "dynamic-api-wrapper",
+    "version": "1.0.0",
+    "description": "A flexible API wrapper for any REST API",
+    "main": "src/index.js",
+    "types": "types/index.d.ts",
+    "scripts": {
+      "test": "echo \"No tests specified\" && exit 0"
+    },
+    "keywords": ["api", "wrapper", "nodejs", "axios"],
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+      "axios": "^1.4.0",
+      "dotenv": "^16.3.1"
+    }
+  }
+  
